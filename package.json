@@ -1,0 +1,14 @@
+{
+  "name": "sebastianmiracastro.github.io",
+  "version": "1.0.0",
+  "description": "Sebastian Mira - Portfolio Website",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sebastianmiracastro/sebastianmiracastro.github.io.git"
+  },
+  "author": "Sebastian Mira Castro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebastianmiracastro/sebastianmiracastro.github.io/issues"
+  }
+}
